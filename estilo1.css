@@ -1,0 +1,80 @@
+#txt1{
+	width:400px;
+	position:relative;
+	left:-330px;
+	text-align: center;
+	background-color:#C1CEE1;
+}
+
+#txt2{
+	width:400px;
+	position:relative;
+	left:350px;
+	top:-635px;
+	text-align: center;
+	background-color:#C1CEE1;
+}
+
+#txt3{
+	width:400px;
+	position:relative;
+	top:-480px;
+	text-align: center;
+	background-color:#C1CEE1;
+}
+
+#promedio{
+	width: 450px;
+	height: 333px;
+	background: url(img1hover.jpg) no-repeat;
+	transition:all .6s ease-in-out;
+	position:relative;
+	left:-330px;
+	top:50px;
+}
+
+#promedio:hover{
+	background: url(img1.jpg) no-repeat;
+}
+
+#contar{
+	width: 450px;
+	height: 333px;
+	background: url(img2hover.jpg) no-repeat;
+	transition:all .6s ease-in-out;
+	position:relative;
+	left:350px;
+	top:-584px;
+}
+
+#contar:hover{
+	background: url(img2.jpg) no-repeat;
+}
+
+#buscar{
+	width: 450px;
+	height: 333px;
+	background: url(img3hover.jpg) no-repeat;
+	transition:all .6s ease-in-out;
+	position:relative;
+	top:-440px;
+}
+
+#buscar:hover{
+	background: url(img3.jpg) no-repeat;
+}
+
+#id7 {
+    width:170px;
+    height:90px;
+    background-color:lightgray;
+    position:relative;
+    border-radius:20px;
+    border-style:double;
+    border-width:7px;
+    border-color:#292929;
+    top:-300px;
+    right:8px;
+    font-family:Bahnschrift Light;
+    font-size:30px;
+}
